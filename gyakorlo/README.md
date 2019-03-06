@@ -1,4 +1,4 @@
 ### Gyakorló feladatok
 
- - [Láncolt lista](gyakorlo/list.md)
+ - [Láncolt lista](list.md)
  - ...
