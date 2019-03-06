@@ -1,5 +1,4 @@
 ### Gyakorló feladatok
 
- - [Egyszeresen láncolt lista](gyakorlo/list.md)
- - Kétszeresen láncolt lista
+ - [Láncolt lista](gyakorlo/list.md)
  - ...
