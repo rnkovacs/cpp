@@ -4,6 +4,7 @@
 
 int main() {
   ArrayOnHeap a(32, 2);
+
   assert(a.size() == 2);
   assert(a.get()[0] == 32);
   assert(a.get()[1] == 32);
